@@ -1,0 +1,16 @@
+order_id,customer_name,email,product,category,price,quantity,discount_pct,order_date,city,rating,revenue,order_month,order_weekday,customer_tier
+ORD001,Priya Sharma,priya@gmail.com,Laptop,Electronics,45000,1,10,2024-01-15,Mumbai,5.0,40500.0,January,Monday,Gold
+ORD002,Rahul Kumar,rahul@outlook.com,Smartphone,Electronics,25000,2,5,,Delhi,4.0,47500.0,,,Gold
+ORD003,Aisha Khan,aisha@yahoo.in,Tablet,Electronics,35000,1,15,,Chennai,4.0,29750.0,,,Silver
+ORD004,Anonymous,not_provided,Headphones,Audio,8500,3,0,,Unknown,3.0,25500.0,,,Silver
+ORD005,Karan Patel,karan@gmail.com,Laptop,Electronics,55000,1,20,,Bangalore,5.0,44000.0,,,Gold
+ORD006,Meera Singh,not_provided,Smartwatch,Wearables,12000,2,8,,Pune,4.0,22080.0,,,Silver
+ORD007,Dev Malhotra,dev@hotmail.com,Smartphone,Electronics,28000,1,5,,Mumbai,4.0,26600.0,,,Silver
+ORD008,Sana Rao,sana@gmail.com,Laptop,Electronics,42000,1,12,2024-01-22,Hyderabad,4.0,36960.0,January,Monday,Gold
+ORD009,Arjun Nair,arjun@yahoo.in,Headphones,Audio,30000,2,0,,Kolkata,3.0,60000.0,,,Gold
+ORD010,Pooja Mehta,pooja@gmail.com,Tablet,Electronics,32000,1,10,,Bangalore,5.0,28800.0,,,Silver
+ORD011,Ravi Gupta,ravi@gmail.com,Camera,Photography,65000,1,0,,Jaipur,5.0,65000.0,,,Platinum
+ORD012,Anonymous,not_provided,Laptop,Electronics,49000,1,15,,Mumbai,4.0,41650.0,,,Gold
+ORD013,Ananya Roy,ananya@yahoo.in,Smartwatch,Wearables,15000,2,8,,Delhi,3.0,27600.0,,,Silver
+ORD014,Mohit Jain,mohit@gmail.com,Headphones,Audio,7500,4,5,,Chennai,4.0,28500.0,,,Silver
+ORD015,Deepa Krishnan,deepa@gmail.com,Tablet,Electronics,28000,1,10,,Bangalore,5.0,25200.0,,,Silver
