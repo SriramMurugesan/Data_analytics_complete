@@ -145,20 +145,7 @@ All Data Analyst skills +
 
 ---
 
-### 📅 Realistic Career Timeline
 
-```
-Month 1-3:   Learn Python basics + Pandas + SQL
-Month 4-6:   Build 3-5 portfolio projects
-Month 7-9:   Learn visualization (Tableau/Power BI or Matplotlib)
-Month 9-12:  Apply for entry-level analyst roles
-Year 1-2:    Gain domain expertise at first job
-Year 2-3:    Upskill into ML or specialize in a domain
-Year 3-5:    Senior Analyst / Junior Data Scientist
-Year 5+:     Analytics Manager or Principal Data Scientist
-```
-
----
 
 ### 💼 Top Companies Hiring Data Analysts in India
 
@@ -173,17 +160,7 @@ Year 5+:     Analytics Manager or Principal Data Scientist
 
 ---
 
-### 🎓 Certifications That Help
 
-| Certification | Provider | Cost | Value |
-|--------------|----------|------|-------|
-| Google Data Analytics Certificate | Coursera | ~$200 | High for beginners |
-| Microsoft Power BI Analyst | Microsoft | ~$165 | BI focused |
-| AWS Data Analytics Specialty | Amazon | ~$300 | Cloud analytics |
-| Tableau Desktop Specialist | Tableau | ~$250 | Visualization |
-| IBM Data Science Professional | Coursera | ~$300 | Comprehensive |
-
----
 
 ### 🔮 Future Trends to Watch
 
