@@ -1,0 +1,154 @@
+MINI PROJECT – DAY 2
+EXPLORATORY DATA ANALYSIS & VISUALIZATION
+
+Dataset:
+students_data.csv
+
+---
+
+## SECTION 1: STATISTICAL SUMMARY
+
+1. Display summary statistics of the dataset
+2. Find mean, median, and standard deviation of marks
+3. Find average study hours and attendance
+4. Compare average marks across different cities
+
+Question:
+What do you understand from the summary?
+
+---
+
+## SECTION 2: CORRELATION ANALYSIS
+
+5. Calculate correlation between numerical columns
+6. Identify which variables are strongly related
+7. Check relationship between:
+
+   * Study hours and marks
+   * Attendance and marks
+
+Question:
+Which factor affects marks more?
+
+Important:
+Does correlation mean causation? Explain.
+
+---
+
+## SECTION 3: OUTLIER DETECTION
+
+8. Identify outliers in marks
+9. Identify outliers in study hours
+10. Explain how outliers affect analysis
+
+Question:
+Should we remove outliers? Why or why not?
+
+---
+
+## SECTION 4: FEATURE ANALYSIS
+
+11. Analyze how study hours affect marks
+12. Analyze how attendance affects marks
+13. Compare performance based on gender
+14. Compare performance across cities
+
+Question:
+Which feature is most important for student performance?
+
+---
+
+## SECTION 5: BASIC VISUALIZATION
+
+15. Create a bar chart:
+
+    * Average marks by city
+
+16. Create a bar chart:
+
+    * Average marks by gender
+
+17. Create a line chart:
+
+    * Marks trend (use student_id)
+
+18. Create a histogram:
+
+    * Distribution of marks
+
+19. Create a boxplot:
+
+    * Marks distribution
+
+Question:
+What do you observe from each chart?
+
+---
+
+## SECTION 6: ADVANCED VISUALIZATION
+
+20. Create a scatter plot:
+
+    * Study hours vs marks
+
+21. Create a heatmap:
+
+    * Correlation matrix
+
+22. Create a distribution plot:
+
+    * Study hours
+
+23. (Optional) Combine multiple variables in one visualization
+
+Question:
+Which visualization helped you understand data better?
+
+---
+
+## SECTION 7: VISUALIZATION ETHICS
+
+24. Explain why choosing the right chart is important
+25. What can go wrong with misleading charts?
+
+Example:
+Wrong scale, wrong chart type, etc.
+
+---
+
+## SECTION 8: MINI DASHBOARD (IMPORTANT)
+
+26. Create a simple dashboard using multiple plots:
+
+    * Bar chart
+    * Scatter plot
+    * Histogram
+
+27. Arrange them properly (single view)
+
+---
+
+## SECTION 9: INSIGHTS & CONCLUSION
+
+28. Write at least 5 insights from your analysis
+
+Examples:
+
+* Students with higher study hours score more
+* Attendance impacts performance
+* Certain cities perform better
+
+29. Suggest 2 improvements for students
+
+---
+
+## BONUS (OPTIONAL)
+
+* Predict student performance based on study habits
+* Suggest how college can improve results
+
+---
+
+NOTE:
+Focus on understanding patterns and explaining insights clearly.
+Visualization should support your conclusions.
