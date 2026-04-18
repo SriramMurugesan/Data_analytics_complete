@@ -107,21 +107,29 @@ print("#"*50)
 plt.figure(figsize=(14,10))
 plt.subplot(3,2,1)
 df.groupby("city")["marks"].mean().plot(kind="bar")
+# Seaborn alternative:
+# sns.barplot(data=df.groupby("city")["marks"].mean().reset_index(), x="city", y="marks")
 # 16. Create a bar chart:
 
 #     * Average marks by gender
 plt.subplot(3,2,2)
 df.groupby("gender")["marks"].mean().plot(kind="bar")
+# Seaborn alternative:
+# sns.barplot(data=df.groupby("gender")["marks"].mean().reset_index(), x="gender", y="marks")
 # 17. Create a line chart:
 
 #     * Marks trend (use student_id)
 plt.subplot(3,2,3)
 plt.plot(df["student_id"], df["marks"], marker='o')
+# Seaborn alternative:
+# sns.lineplot(data=df, x="student_id", y="marks", marker='o')
 # 18. Create a histogram:
 
 #     * Distribution of marks
 plt.subplot(3,2,4)
 plt.hist(df["marks"], bins=10)
+# Seaborn alternative:
+# sns.histplot(data=df, x="marks", bins=10)
 # 19. Create a boxplot:
 
 #     * Marks distribution
@@ -145,6 +153,8 @@ print("#"*50)
 plt.figure(figsize=(15,5))
 plt.subplot(1,3,1)
 plt.scatter(df["study_hours"], df["marks"])
+# Seaborn alternative:
+# sns.scatterplot(data=df, x="study_hours", y="marks")
 plt.title("Study hours vs Marks")
 
 # 21. Create a heatmap:
@@ -199,13 +209,19 @@ plt.figure(figsize=(12,8))
 
 plt.subplot(2,2,1)
 df.groupby("city")["marks"].mean().plot(kind="bar", title="Avg Marks by City")
+# Seaborn alternative:
+# sns.barplot(data=df.groupby("city")["marks"].mean().reset_index(), x="city", y="marks").set(title="Avg Marks by City")
 
 plt.subplot(2,2,2)
 plt.scatter(df["study_hours"], df["marks"])
+# Seaborn alternative:
+# sns.scatterplot(data=df, x="study_hours", y="marks")
 plt.title("Study hours vs Marks")
 
 plt.subplot(2,2,3)
 plt.hist(df["marks"], bins=10)
+# Seaborn alternative:
+# sns.histplot(data=df, x="marks", bins=10)
 plt.title("Marks Distribution")
 
 plt.tight_layout()
